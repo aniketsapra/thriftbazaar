@@ -17,7 +17,7 @@ const Navbar = ({ setShowLogin }) => {
   };
 
   const handleNavLinkClick = () => {
-    setIsOpen(false); // Close the navbar when a link is clicked
+    setIsOpen(false); 
   };
 
   return (
